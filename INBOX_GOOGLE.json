@@ -6,6 +6,6 @@
 	],	
 	"LAUNCH" : {
 		"url" : "inbox-gmail://",
-		"description":"Launch the Inbox App"
+		"desc":"Launch the Inbox App"
 	}
 }
