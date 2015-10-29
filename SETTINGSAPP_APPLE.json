@@ -1,0 +1,11 @@
+{
+	"application" : "Settings App",
+	"developer" : "Apple",
+	"scheme_index" : [
+		"LAUNCH"
+	],	
+	"LAUNCH" : {
+		"url" : "prefs://",
+		"description":"Launch the Settings App"
+	}
+}
