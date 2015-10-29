@@ -1,0 +1,21 @@
+{
+	"application" : "Workflow",
+	"developer" : "DeskConnect, Inc.",
+	"scheme_index" : [
+		"LAUNCH",
+		"RUN_WORKFLOW",
+		"RUN_WORKFLOW_WITH_INPUT"
+	],
+	"LAUNCH" : {
+		"url"  : "workflow://", 
+		"desc" : "Launch the Workflow app"
+	},
+	"RUN_WORKFLOW" : {
+		"url"  : "workflow://run-workflow?name={name}", 
+		"desc" : "Run a specific workflow"
+	},
+	"RUN_WORKFLOW_WITH_INPUT" : {
+		"url"  : "workflow://run-workflow?name={name}&input={input}", 
+		"desc" : "Run a specific workflow and passing an input"
+	}
+}
