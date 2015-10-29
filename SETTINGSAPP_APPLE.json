@@ -6,6 +6,6 @@
 	],	
 	"LAUNCH" : {
 		"url" : "prefs://",
-		"description":"Launch the Settings App"
+		"desc":"Launch the Settings App"
 	}
 }

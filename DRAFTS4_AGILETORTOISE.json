@@ -6,6 +6,6 @@
 	],	
 	"LAUNCH" : {
 		"url" : "drafts4://",
-		"description":"Launch the Drafts 4 app"
+		"desc":"Launch the Drafts 4 app"
 	}
 }
