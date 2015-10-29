@@ -1,0 +1,11 @@
+{
+	"application" : "Inbox",
+	"developer" : "Google",
+	"scheme_index" : [
+		"LAUNCH"
+	],	
+	"LAUNCH" : {
+		"url" : "inbox-gmail://",
+		"description":"Launch the Inbox App"
+	}
+}

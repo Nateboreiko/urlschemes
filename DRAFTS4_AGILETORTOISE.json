@@ -1,0 +1,11 @@
+{
+	"application" : "Drafts 4",
+	"developer" : "Agile Tortoise",
+	"scheme_index" : [
+		"LAUNCH"
+	],	
+	"LAUNCH" : {
+		"url" : "drafts4://",
+		"description":"Launch the Drafts 4 app"
+	}
+}
